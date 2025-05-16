@@ -1,5 +1,7 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/kyjvrxl8xjqx3l7g?svg=true)](https://ci.appveyor.com/project/OksanaBannova/media)
 
+[GitHub Pages]()
+
 
 # Домашнее задание к занятию "10. Geolocation, Notification, Media"
 
