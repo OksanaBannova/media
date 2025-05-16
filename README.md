@@ -1,3 +1,6 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/kyjvrxl8xjqx3l7g?svg=true)](https://ci.appveyor.com/project/OksanaBannova/media)
+
+
 # Домашнее задание к занятию "10. Geolocation, Notification, Media"
 
 **Важно**: в рамках этого задания вы будете разрабатывать **один проект**, в который добавляется новая функциональность. Поэтому все три задачи нужно делать в одном репозитории (не забудьте опубликовать проект на GitHub Pages).
